@@ -18,6 +18,9 @@ public class FeigeConntroller {
         return feigeService.get(id);
     }
 
-
+    @GetMapping(value = "/consumer/payment/feign/timeout")
+    public String paymentFeignTimeout(){
+        return feigeService.paymentFeignTimeout();
+    }
 
 }
