@@ -29,4 +29,9 @@ public class PamentConntroller {
         }
         return null;
     }
+
+    @GetMapping(value = "/payment/lb")
+    public String getPaymentLB(){
+        return serverPort;
+    }
 }
