@@ -17,7 +17,7 @@ import java.util.List;
 @RestController
 public class ConsumerConntroller {
 //    private static  final String PAYMENT_URL="http://localhost:8081";
-    private static  final String PAYMENT_URL="http://cloud-payment-service";
+    private static  final String PAYMENT_URL="http://cloud-payment-com.zsk.service";
     @Resource
     private RestTemplate restTemplate;
     @Resource

@@ -47,7 +47,7 @@ public class PamentConntroller {
     @GetMapping("/discovery")
     public Object discovery() {
         List<String> services = discoveryClient.getServices();
-        List<ServiceInstance> instances = discoveryClient.getInstances("cloud-payment-service");
+        List<ServiceInstance> instances = discoveryClient.getInstances("cloud-payment-com.zsk.service");
     return discoveryClient;
     }
 

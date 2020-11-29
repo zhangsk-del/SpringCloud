@@ -2,7 +2,7 @@ server:
   port: 8082
 spring:
   application:
-    name: cloud-payment-service
+    name: cloud-payment-com.zsk.service
   datasource:
     url: jdbc:mysql://localhost:3306/springcloud?characterEncoding=UTF-8&serverTimezone=UTC
     password: root

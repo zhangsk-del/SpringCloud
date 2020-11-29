@@ -12,7 +12,7 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
  */
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 @EnableEurekaClient
-//@RibbonClient(name = "cloud-payment-service",configuration = MySelfRule.class)
+//@RibbonClient(name = "cloud-payment-com.zsk.service",configuration = MySelfRule.class)
 public class Consumer80Main {
     public static void main(String[] args) {
         SpringApplication.run(Consumer80Main.class,args);
