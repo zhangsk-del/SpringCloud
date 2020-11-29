@@ -24,4 +24,12 @@ public class HystrixConntroller {
         String s = service.hyPaymentTimeOut(id);
         return s+"port:"+serverPort;
     }
+
+
+    //===服务熔断
+    @GetMapping("/payment/circuit/{id}")
+    public String paymentCircuitBreaker(@PathVariable("id") Integer id){
+        String result = service.paymentCircuitBreaker(id);
+        return result;
+    }
 }
