@@ -31,9 +31,6 @@ public class FilerGateway implements GlobalFilter, Ordered {
 
 
     }
-
-
-
     @Override
     public int getOrder() {
         return 0;
