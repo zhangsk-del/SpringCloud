@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cloud1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-api-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-config-center3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-config-client3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-consumer-Feign-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-consumer-feign-hystrix-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-consumerZK80-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-consumerconsul-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-eureka-server7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-eureka-server7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-prociderconsul-payment8006" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-provider-hystrix-payment8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloud-provider-payment8004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloudalibaba-config-nacos-client3377" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloudalibaba-consumer-nacos83" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloudalibaba-procider-payment9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/cloudalibaba-provider-payment9002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/colud-consumer-hystrix-dashborad9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/colud-gateway-geteway9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/colud-procider-consumer80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/colud-provider-payment8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud1/colud-provider-payment8002" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

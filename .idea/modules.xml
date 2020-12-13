@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud1/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-config-center3344/cloud-config-center3344.iml" filepath="$PROJECT_DIR$/cloud1/cloud-config-center3344/cloud-config-center3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-config-client3355/cloud-config-client3355.iml" filepath="$PROJECT_DIR$/cloud1/cloud-config-client3355/cloud-config-client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-consumer-Feign-order80/cloud-consumer-Feign-order80.iml" filepath="$PROJECT_DIR$/cloud1/cloud-consumer-Feign-order80/cloud-consumer-Feign-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/cloud1/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-consumerZK80-order/cloud-consumerZK80-order.iml" filepath="$PROJECT_DIR$/cloud1/cloud-consumerZK80-order/cloud-consumerZK80-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" filepath="$PROJECT_DIR$/cloud1/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-eureka-server7001/cloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/cloud1/cloud-eureka-server7001/cloud-eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-eureka-server7002/cloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/cloud1/cloud-eureka-server7002/cloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-prociderconsul-payment8006/cloud-prociderconsul-payment8006.iml" filepath="$PROJECT_DIR$/cloud1/cloud-prociderconsul-payment8006/cloud-prociderconsul-payment8006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/cloud1/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud-provider-payment8004/cloud-provider-payment8004.iml" filepath="$PROJECT_DIR$/cloud1/cloud-provider-payment8004/cloud-provider-payment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloud1.iml" filepath="$PROJECT_DIR$/cloud1/cloud1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloud1/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloudalibaba-consumer-nacos83/cloudalibaba-consumer-nacos83.iml" filepath="$PROJECT_DIR$/cloud1/cloudalibaba-consumer-nacos83/cloudalibaba-consumer-nacos83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloudalibaba-procider-payment9001/cloudalibaba-procider-payment9001.iml" filepath="$PROJECT_DIR$/cloud1/cloudalibaba-procider-payment9001/cloudalibaba-procider-payment9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" filepath="$PROJECT_DIR$/cloud1/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/colud-consumer-hystrix-dashborad9001/colud-consumer-hystrix-dashborad9001.iml" filepath="$PROJECT_DIR$/cloud1/colud-consumer-hystrix-dashborad9001/colud-consumer-hystrix-dashborad9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/colud-gateway-geteway9527/colud-gateway-geteway9527.iml" filepath="$PROJECT_DIR$/cloud1/colud-gateway-geteway9527/colud-gateway-geteway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/colud-procider-consumer80/colud-procider-consumer80.iml" filepath="$PROJECT_DIR$/cloud1/colud-procider-consumer80/colud-procider-consumer80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/colud-provider-payment8002/colud-procider-payment8002.iml" filepath="$PROJECT_DIR$/cloud1/colud-provider-payment8002/colud-procider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1/colud-provider-payment8001/colud-provider-payment8001.iml" filepath="$PROJECT_DIR$/cloud1/colud-provider-payment8001/colud-provider-payment8001.iml" />
+    </modules>
+  </component>
+</project>
